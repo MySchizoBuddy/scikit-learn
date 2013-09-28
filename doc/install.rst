@@ -210,6 +210,12 @@ The `Enthought Python Distribution
 <http://www.enthought.com/products/epd.php>`_ already ships a recent
 version.
 
+Anaconda Python distribution
+-----------------------------
+
+The `Anaconda Python Distribution
+<https://store.continuum.io/cshop/anaconda/>`_ already ships a recent
+version. Anaconda by default installs scikit-learn for python 2.7.5. It doesn't included scikit-learn for python 3.3.
 
 MacPorts
 --------
